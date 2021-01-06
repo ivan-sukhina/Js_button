@@ -1,0 +1,8 @@
+button {
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    border: 1px solid;
+    color: white;
+    background-color: rgb(83, 24, 24);
+}
